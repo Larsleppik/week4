@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\week4\Forloopsum\bin\Debug\net8.0\Forloopsum.exe
+C:\Users\ADMIN\source\repos\week4\Forloopsum\bin\Debug\net8.0\Forloopsum.deps.json
+C:\Users\ADMIN\source\repos\week4\Forloopsum\bin\Debug\net8.0\Forloopsum.runtimeconfig.json
+C:\Users\ADMIN\source\repos\week4\Forloopsum\bin\Debug\net8.0\Forloopsum.dll
+C:\Users\ADMIN\source\repos\week4\Forloopsum\bin\Debug\net8.0\Forloopsum.pdb
+C:\Users\ADMIN\source\repos\week4\Forloopsum\obj\Debug\net8.0\Forloopsum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\week4\Forloopsum\obj\Debug\net8.0\Forloopsum.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\week4\Forloopsum\obj\Debug\net8.0\Forloopsum.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\week4\Forloopsum\obj\Debug\net8.0\Forloopsum.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\week4\Forloopsum\obj\Debug\net8.0\Forloopsum.dll
+C:\Users\ADMIN\source\repos\week4\Forloopsum\obj\Debug\net8.0\refint\Forloopsum.dll
+C:\Users\ADMIN\source\repos\week4\Forloopsum\obj\Debug\net8.0\Forloopsum.pdb
+C:\Users\ADMIN\source\repos\week4\Forloopsum\obj\Debug\net8.0\Forloopsum.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\week4\Forloopsum\obj\Debug\net8.0\ref\Forloopsum.dll

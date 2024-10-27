@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\week4\Whiteloops\bin\Debug\net8.0\Whiteloops.exe
+C:\Users\ADMIN\source\repos\week4\Whiteloops\bin\Debug\net8.0\Whiteloops.deps.json
+C:\Users\ADMIN\source\repos\week4\Whiteloops\bin\Debug\net8.0\Whiteloops.runtimeconfig.json
+C:\Users\ADMIN\source\repos\week4\Whiteloops\bin\Debug\net8.0\Whiteloops.dll
+C:\Users\ADMIN\source\repos\week4\Whiteloops\bin\Debug\net8.0\Whiteloops.pdb
+C:\Users\ADMIN\source\repos\week4\Whiteloops\obj\Debug\net8.0\Whiteloops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\week4\Whiteloops\obj\Debug\net8.0\Whiteloops.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\week4\Whiteloops\obj\Debug\net8.0\Whiteloops.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\week4\Whiteloops\obj\Debug\net8.0\Whiteloops.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\week4\Whiteloops\obj\Debug\net8.0\Whiteloops.dll
+C:\Users\ADMIN\source\repos\week4\Whiteloops\obj\Debug\net8.0\refint\Whiteloops.dll
+C:\Users\ADMIN\source\repos\week4\Whiteloops\obj\Debug\net8.0\Whiteloops.pdb
+C:\Users\ADMIN\source\repos\week4\Whiteloops\obj\Debug\net8.0\Whiteloops.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\week4\Whiteloops\obj\Debug\net8.0\ref\Whiteloops.dll
